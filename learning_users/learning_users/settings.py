@@ -28,7 +28,7 @@ SECRET_KEY = 'niv*=75y0^l@$8e@8y@vf!3%o+aus@k$_n_6nl^sukghxksci$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sagarguliani.pythonanywhere.com']
 
 
 # Application definition
